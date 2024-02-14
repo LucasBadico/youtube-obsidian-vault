@@ -1,0 +1,5 @@
+- [x] daily note
+- [ ] community plugins
+	- [x] calendario
+	- [x] obsidian git
+	- [ ] [[excalidraw]]
